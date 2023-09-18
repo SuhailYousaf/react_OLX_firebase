@@ -63,6 +63,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+![Olx](https://github.com/SuhailYousaf/react_OLX_firebase/assets/122224604/832ab636-126d-4a67-b7e3-dcc2c91b5a47)
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `yarn build` fails to minify
